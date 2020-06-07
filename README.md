@@ -20,4 +20,15 @@ A frequence table is created according to popularity of words for titles as well
  
  
  
- 
+Requirements:
+streamlit
+nltk
+Beautiful soup
+tldextract 
+pandas
+
+Usage:
+
+streamlit run scrape_tool_final_launched.py 
+
+
