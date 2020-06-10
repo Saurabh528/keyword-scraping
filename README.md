@@ -25,6 +25,8 @@ Beautiful soup
 tldextract 
 pandas
 
+
+Save countries.csv in the same directory of the code
 Usage:
 
 streamlit run scrape_tool_final_launched.py 
